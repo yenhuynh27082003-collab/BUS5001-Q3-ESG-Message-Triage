@@ -9,7 +9,6 @@ The notebook demonstrates:
 - Structured JSON classification outputs
 - Hugging Face zero-shot comparison
 - Classification consistency and confidence results
-- Risk considerations and the proposed Azure deployment architecture
 
 The notebook file is:
 
